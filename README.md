@@ -1,9 +1,6 @@
 # SE-Assignment-8
 ## Assignment: Pitching a Software Project
 
-
-### Assignment: Pitching a Software Project
-
 ### Understanding the Audience
 
 **Why is it important to understand your audience when pitching a software project? How can you tailor your pitch to different types of stakeholders (e.g., investors, technical team, customers)?**
